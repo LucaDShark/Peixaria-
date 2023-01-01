@@ -1,0 +1,54 @@
+.post{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.subtitle{
+    font-size: 20px;
+    font-style: oblique;
+
+}
+
+#title{
+    font-size: xx-large;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.planofundo{
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+
+body{
+    text-align: center;
+    background-size: 400px;
+    color: gold;
+    background-image: url(peixariaback.png);
+    text-transform: capitalize;
+    margin: auto;
+    
+}
+
+.conteudo{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.plf{
+    margin-bottom: 15px;
+
+}
+
+.photo{
+    border-radius: 20px;
+}
+
+.je{
+    border-radius: 50%;
+}
+.jo{
+    border-radius: 50%;
+}
